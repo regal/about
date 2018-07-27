@@ -16,7 +16,7 @@ The **Regal Framework** aims to capitalize on these advances in technology to br
 
 Gone will be the days of playing these games by typing terse commands into a command line. Instead, players will speak to the stories, and the changes they cause will be narrated back to them.
 
-With the **Regal Framework**, interactive fiction will become what it has always meant to be: a totally immersive story that the player can enter and shape just as easily as they can hear and speak.
+With the **Regal Framework**, interactive fiction will become what it was always meant to be: a totally immersive story that the player can enter and shape just as easily as they can hear and speak.
 
 The **Regal Framework** is a platform for developers to create these audio adventures.
 
