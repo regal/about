@@ -4,15 +4,19 @@
 
 ## Introduction
 
-The **Regal Framework** is a project designed to help developers bring text-driven games and story experiences to players in revolutionary new ways.
+The **Regal Framework** is a project designed to help developers bring text-driven games and story experiences to players in exciting new ways.
 
 Text-based games, often called [**Interactive Fiction (IF)**](https://en.wikipedia.org/wiki/Interactive_fiction), were some of the [first](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) [video](https://en.wikipedia.org/wiki/Adventureland_(video_game)) [games](https://en.wikipedia.org/wiki/Zork) to become popular back in the 1970s. These games were loved by their players for their immersive worlds and gripping stories. 
 
-Despite keeping a small group of [loyal followers](http://ifdb.tads.org/), the text-based game genre has declined in popularity over the years. However, recent advancements in audio recognition, smart assistants, and machine learning have the potential to bring these stories back—*and make them more immersive than ever*. 
+Despite keeping a small group of [loyal followers](http://ifdb.tads.org/), the text-based game genre has declined in popularity over the years. However, recent advancements in audio recognition, smart assistants, and machine learning have the potential to bring these stories back—*and make them more engaging than ever*. 
 
 ## Goals
 
-The **Regal Framework** aims to capitalize on these advances in technology to bring text-driven games into the mainstream through immersive audio experiences.
+The **Regal Framework** aims to capitalize on these advances in technology to bring text-driven games into the mainstream through captivating audio experiences.
+
+<p align="center">
+<strong>Regal</strong>: <strong>Re</strong>inventing <strong>G</strong>ameplay through <strong>A</strong>udio and <strong>L</strong>anguage
+</p>
 
 Gone will be the days of playing these games by typing terse commands into a command line. Instead, players will speak to the stories, and the changes they cause will be narrated back to them.
 
