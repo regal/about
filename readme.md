@@ -73,4 +73,4 @@ In order for the **Regal Framework** to succeed, it needs support from other pas
 
 Interested in helping? Great! Please contact Joe at  joe.r.cowman@gmail.com.
 
-*Copyright 2018, Joe Cowman*
+*Copyright 2018-2019, Joe Cowman*
